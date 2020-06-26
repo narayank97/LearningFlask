@@ -18,3 +18,12 @@ In this chapter I learned:
   - How to create config variables for the webserver
   - The proper and secure way to pass data through forms
   - How to display messages and errors to html from the JINJA inputs
+
+### Chapter 4 Database :
+In this chapter I learned:
+  - About SQLAlchemy and its use, importance, and flexibility
+  - How to create models of objects to be stored in the DB
+  - About the migration process and use cases
+  - Create database relationships between models using primary and foreign keys
+  - Different queries using SQLAlchemy
+  - How to start the shell within the same context as my project
