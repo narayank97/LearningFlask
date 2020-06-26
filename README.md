@@ -19,7 +19,7 @@ In this chapter I learned:
   - The proper and secure way to pass data through forms
   - How to display messages and errors to html from the JINJA inputs
 
-### Chapter 4 Database :
+### Chapter 4 Databases :
 In this chapter I learned:
   - About SQLAlchemy and its use, importance, and flexibility
   - How to create models of objects to be stored in the DB
