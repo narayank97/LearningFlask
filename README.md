@@ -38,3 +38,9 @@ In this chapter I learned:
   - How to force the user to sign in
   - How to redirect the user after a sucessful log in and a failed log in
   - How to create a registration Form
+
+### Chapter 6 Profile Page and Avatars :
+In this chapter I learned:
+  - How to use gravatar and makes calls to recieve images
+  - How to create dynamic URLs specific to users
+  - How to use sub templates to stitch html pages together
