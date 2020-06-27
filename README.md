@@ -27,3 +27,14 @@ In this chapter I learned:
   - Create database relationships between models using primary and foreign keys
   - Different queries using SQLAlchemy
   - How to start the shell within the same context as my project
+
+### Chapter 5 User Logins :
+In this chapter I learned:
+  - About the Flask-Login exstention
+  - How to adjust User model to fit Flask-Login functionality
+  - How to track logged in Users between sessions
+  - To adjust the routing depending on the users logged in status
+  - How to log users out
+  - How to force the user to sign in
+  - How to redirect the user after a sucessful log in and a failed log in
+  - How to create a registration Form
