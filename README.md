@@ -44,3 +44,9 @@ In this chapter I learned:
   - How to use gravatar and makes calls to recieve images
   - How to create dynamic URLs specific to users
   - How to use sub templates to stitch html pages together
+
+### Chapter 7 Error Handling :
+In this chapter I learned:
+  - How to customize error pages
+  - How to enter debugger mode
+  - How to use super to inherit from parent classes
